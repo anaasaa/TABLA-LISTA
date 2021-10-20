@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>periodico</h2>
+
+<table style="width:100%">
+  <tr>
+    <td>tema</td>
+    <td> ejemplos</td>
+    
+  </tr>
+  <tr>
+    <td>general</td>
+    <td><ol>
+  <li> <a href="https://www.elmundo.es/">el mundo</a> </li>
+  <li> <a href="https://elpais.com/">el pais</a> </li>
+  <li> <a href="https://www.lavanguardia.com/">la vanguardia</a> </li></td>
+    
+  </tr>
+  <tr>
+  <td> depores </td>
+  <td> <ol>
+  <li> <a href="https://www.marca.com/">marca</a> </li>
+  <li> <a href="https://as.com/"> as</a> </li>
+  </td>
+</table>
+
+
+
+</body>
+</html>
